@@ -4,28 +4,34 @@
 
 Venho adquirindo e aplicando conhecimentos nesta plataforma, desde Agosto/2021 nos recursos abaixo:
 
-visite meu perfil em: <a href="https://learn.microsoft.com/pt-br/users/homeroneto-0941">learn.microsoft.com</a>
+visite meu perfil em: <a href="https://learn.microsoft.com/pt-br/users/homeroneto-0941" target="_blank">learn.microsoft.com</a>
 
 ## Implantação de recurso, Migração de AD, Desenvolvimento e Implantação de projeto.
-``VMs - SO Windows Server: Implantação de sistema aspnet(.Net).``
+
+`VMs - SO Windows Server: Implantação de sistema aspnet(.Net).`
 
 ## Implantação de recurso, Migração de AD, Desenvolvimento e Implantação de projeto.
-`` Serviço de aplicativos - SO Linux / SO Windows:``  
-``Implantações aplicadas na IDE Visual Studio, VS Code, linha de comando(powershell):``  
-``Sistemas aspnet(.Net), React(Node), WebSite Estático.``
+
+` Serviço de aplicativos - SO Linux / SO Windows:`  
+`Implantações aplicadas na IDE Visual Studio, VS Code, linha de comando(powershell):`  
+`Sistemas aspnet(.Net), React(Node), WebSite Estático.`
 
 ## Implantação de recurso, Migração de AD, Desenvolvimento POC.
-``Contas de Armazenamento.``
+
+`Contas de Armazenamento.`
 
 ## Implantação de recurso, Desenvolvimento POC, Implantação de projeto.
-``ServiceBus: Mensageria: Filas.``
+
+`ServiceBus: Mensageria: Filas.`
 
 ## Implantação de recurso, Desenvolvimento POC, Implantação de projeto.
-``Serviços Cognitivos do Azure: Computer Vision.`` 
-``Azure OpenAI: GPT-turbo 3.5, GPT-4, GPT-4o.``
+
+`Serviços Cognitivos do Azure: Computer Vision.`
+`Azure OpenAI: GPT-turbo 3.5, GPT-4, GPT-4o.`
 
 ## Implantação de recurso, Migração de AD, Implantação de projeto.
-``Banco de dados SQL Azure, modelo de compra(DTU), banco único ou pool de bancos:``
-``Implantação, importar/exportar dados.``
+
+`Banco de dados SQL Azure, modelo de compra(DTU), banco único ou pool de bancos:`
+`Implantação, importar/exportar dados.`
 
 ![DP900](img/DP900.jpg "DP900.png")
