@@ -2,7 +2,9 @@
 
 ![my-profile-azure](img/my-profile-azure.png "my-profile-azure.png")
 
-Venho adquirindo e aplicando conhecimentos nesta plataforma, desde Agosto/2020 nos recursos abaixo:
+Venho adquirindo e aplicando conhecimentos nesta plataforma, desde Agosto/2021 nos recursos abaixo:
+
+visite meu perfil em: <a href="https://learn.microsoft.com/pt-br/users/homeroneto-0941">learn.microsoft.com</a>
 
 ## Implantação de recurso, Migração de AD, Desenvolvimento e Implantação de projeto.
 
